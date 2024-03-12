@@ -8,15 +8,16 @@ const router = createRouter({
   history: createWebHistory(process.env.BASE_URL),
   routes: [
     {
-      path: '/cr',
-      name: 'CreateAccount',
-      component: CreateAccount
-    },
-    {
       path: '/',
       name: 'FirstIn',
       component: FirstIn
     },
+    {
+      path: '/cr',
+      name: 'CreateAccount',
+      component: CreateAccount
+    },
+    
     {
       path: '/main',
       name: 'MainDisplay',

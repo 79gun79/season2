@@ -97,7 +97,7 @@
     color: white;
     border-style : none;
     border-radius: 5px;
-    cursor: pointer;
+    cursor:pointer;
     margin: 30px 20px 0 0;
 
   }          

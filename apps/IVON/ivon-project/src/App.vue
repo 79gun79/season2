@@ -15,17 +15,6 @@ export default {
 </script>
 
 <style>
-
-#app {
-  font-family: Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-.ProjectName {
-  margin : 0;
-  color : #1F4E79;
-  text-decoration-line: none;
-}
+@import './css/index.css';
 
 </style>
